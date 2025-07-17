@@ -77,3 +77,16 @@ If `data-autoplay="true"`:
 ```
 
 * Make sure the jQuery code runs **after** the DOM is ready.
+
+---
+
+## 🚀 Installation
+
+You can use the script directly via CDN:
+
+```html
+<script src="https://developer-zahid.github.io/JQuery-Stacking-Card-Slider/assets/js/script.js"></script>
+
+<!-- Minified Version -->
+<script src="https://cdn.jsdelivr.net/gh/Developer-Zahid/JQuery-Stacking-Card-Slider@latest/assets/js/script.min.js"></script>
+```
