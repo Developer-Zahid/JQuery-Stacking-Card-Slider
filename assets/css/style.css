@@ -6,7 +6,7 @@
 	--_slide-out-timing-function: cubic-bezier(0.5, 0, 0.75, 0);
 	display: grid;
 	grid-template-areas: 'center';
-	margin-top: calc((var(--_items-length, 0) - 1) * var(--_top-offset));
+	padding-top: calc((var(--_items-length, 0) - 1) * var(--_top-offset));
 }
 
 [data-slider="item"] {
